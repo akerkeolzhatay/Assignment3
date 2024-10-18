@@ -1,5 +1,3 @@
-
-
 // Concrete Mediator
 class GroceryStore implements GroceryStoreMediator {
     private Cashier cashier;
